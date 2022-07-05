@@ -1,0 +1,9 @@
+read 
+
+result := 5 / .55
+
+/* This is a calculation
+of division*/
+
+write 
+

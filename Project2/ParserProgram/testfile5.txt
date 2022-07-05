@@ -1,0 +1,6 @@
+
+
+write A
+write B
+
+write sum

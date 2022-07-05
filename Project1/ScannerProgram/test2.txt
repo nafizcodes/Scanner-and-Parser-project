@@ -1,0 +1,9 @@
+read
+write
+/* foo
+	bar */
+*
+five 5
+/ * + - := .01 
+
+write
